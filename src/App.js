@@ -41,7 +41,7 @@ function App() {
               <p>Drive</p>
             </div>
             <div class="app-item">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Google-calendar.svg/1024px-Google-calendar.svg.png" alt="Google Calendar"/>
+              <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Google_Calendar.png" alt="Google Calendar"/>
               <p>Calendar</p>
             </div>
             <div class="app-item">
