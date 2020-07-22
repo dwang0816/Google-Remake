@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import google from './google.png'
 
@@ -45,7 +44,7 @@ function App() {
 
       <main>
         <section>
-          <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" id="google-logo"/>
+          <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt= "google Logo" id="google-logo"/>
           <br/>
           <div id="input-wrapper">
             <input id="search-box"/>
