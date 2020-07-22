@@ -1,5 +1,6 @@
 body {
   font-family: Arial, sans-serif;
+  padding: 0 16px;
 }
 
 nav {
@@ -20,8 +21,6 @@ nav {
   margin-right: 16px;
 }
 
-
-
 .menu-item:hover {
   text-decoration: underline;
 }
@@ -38,6 +37,7 @@ nav {
 
 section {
   text-align: center;
+  padding-top: 15%;
 }
 
 #input-wrapper {
@@ -94,5 +94,34 @@ section {
   border: 1px solid #c6c6c6;
   box-shadow: 0 1px 1px rgba(0,0,0,0.1);
   color: #222;
-  
+
+}
+
+.custom-btn:first-of-type {
+  margin-right: 16px;
+}
+
+#app-dropdown {
+  width: 285;
+  padding: 28px;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
+
+.app-item {
+  display: inline-block;
+  width: 84px;
+  margin-bottom: 18px;
+}
+
+.app-item >img {
+  width: 50px;
+  height: 50px;
+}
+
+.app-item > p {
+  padding-top: 8px;
+  color: rgba(0,0,0,0.87);
+  margin: 0;
+
 }
