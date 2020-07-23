@@ -6,6 +6,6 @@ All edits done in app.css and app.js.
 
 Deployed using heroku.
 
-Link: https://google-clone-dennis.herokuapp.com/
+Link: http://doogle.surge.sh/
 
 <img src="./src/firstDraft.png">
